@@ -38,7 +38,7 @@ I'm a Computer Science graduate building my skills in Data Analytics and Web Dev
 - 💻 Exploring web technologies and building practical applications.
 - 🌱 Currently learning **Data Analytics** and **Web Development**.
 - 🎯 Focused on continuous learning, problem-solving, and project-based experience.
-- 📍 Tamil Nadu, India.
+
 
 ## 🧰 Technical Skills
 
@@ -97,11 +97,5 @@ Periyar University · 2026
   <a href="https://www.linkedin.com/in/thilagavathi-g/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:thilagavathikavitha965@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://thilagavathi-g.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-</div>
-
-  <br />
-
-  <p><sub>Thanks for visiting my profile! Let's learn, build, and grow together.</sub></p>
 
 </div>
