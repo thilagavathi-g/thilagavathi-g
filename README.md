@@ -40,59 +40,23 @@ I'm a Computer Science graduate building my skills in Data Analytics and Web Dev
 - 🎯 Focused on continuous learning, problem-solving, and project-based experience.
 - 📍 Tamil Nadu, India.
 
-## 🛠️ Skills & Technologies
+## 🧰 Technical Skills
 
-### 📊 Data Analytics
+**Data Analytics & Visualization**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-475569?style=for-the-badge) ![EDA](https://img.shields.io/badge/EDA-475569?style=for-the-badge)
 
-<p>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="Microsoft Excel" title="Microsoft Excel" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL" title="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" title="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI" title="Power BI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas" title="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="42" alt="NumPy" title="NumPy" />
-</p>
+**Machine Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Random Forest](https://img.shields.io/badge/Random_Forest-475569?style=for-the-badge)
 
-**Core skills:** Excel · SQL · Python · Power BI · Statistics · Pandas · NumPy · Exploratory Data Analysis (EDA)
+**Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🌐 Web Development
-
-<p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="42" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="42" alt="React" title="React JS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="42" alt=".NET" title="ASP.NET" />
-</p>
-
-**Core skills:** HTML5 · CSS3 · JavaScript · React JS · ASP.NET
-
-### ⚙️ Tools
-
-<p>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="38" alt="Visual Studio Code" title="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="38" alt="MySQL Workbench" title="MySQL Workbench" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="38" alt="Git" title="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" height="38" alt="GitHub" title="GitHub" />
-</p>
-
-**Tools I use:** VS Code · MySQL Workbench · Git · GitHub · Microsoft Excel · WPS Office
+**Tools & Platforms**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-2B3137?style=for-the-badge&logo=github&logoColor=white) ![WPS Office](https://img.shields.io/badge/WPS_Office-DC2626?style=for-the-badge)
 
 ## 🚀 Featured Projects
 
-### 1. Smart Traffic Prediction and Congestion Management System
+### Smart Traffic Prediction and Congestion Management System
 
 A machine-learning project focused on predicting travel time and classifying traffic congestion levels using a Random Forest model.
 
@@ -102,19 +66,6 @@ A machine-learning project focused on predicting travel time and classifying tra
 <p>
   <a href="https://github.com/thilagavathi-g/smart-traffic-prediction-congestion-management-system">
     <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Traffic Prediction repository" />
-  </a>
-</p>
-
-### 2. Funnel Drop-off Analysis
-
-A data analytics project that analyses user movement through each stage of a funnel to find where users drop off and which stages need improvement.
-
-- **Technologies:** SQL · Python · Exploratory Data Analysis (EDA)
-- **Focus:** Funnel stage analysis, drop-off identification, and data-driven insights.
-
-<p>
-  <a href="https://github.com/thilagavathi-g/funnel-dropoff-analysis">
-    <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Funnel Drop-off Analysis repository" />
   </a>
 </p>
 
@@ -138,35 +89,14 @@ A data analytics project that analyses user movement through each stage of a fun
 Bon Secours Arts and Science College for Women  
 Periyar University · 2026
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/thilagavathi-g/thilagavathi-g/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-  <a href="https://github.com/thilagavathi-g">
-    <img src="https://cdn.simpleicons.org/github/181717" height="38" alt="GitHub" title="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thilagavathi-g/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://thilagavathi-g.github.io/portfolio/">
-    <img src="https://img.icons8.com/fluency-systems-filled/48/2563EB/domain.png" height="38" alt="Portfolio" title="Portfolio" />
-  </a>
-
-  <p>
-    📧 <a href="mailto:thilagavathikavitha965@gmail.com">Email Me</a>
-    &nbsp; | &nbsp;
-    🌐 <a href="https://thilagavathi-g.github.io/portfolio/">Portfolio</a>
-  </p>
+  <a href="https://github.com/thilagavathi-g"><img src="https://img.shields.io/badge/GitHub-2B3137?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/thilagavathi-g/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:thilagavathikavitha965@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://thilagavathi-g.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
