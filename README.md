@@ -1,4 +1,3 @@
-
 <!--
 GitHub Profile README
 Username: thilagavathi-g
@@ -10,6 +9,16 @@ Theme: Navy & Blue
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=G.%20Thilagavathi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Data&descAlignY=56&descSize=20" width="100%" alt="G. Thilagavathi — Where Code Meets Data" />
 
   <h3>Computer Science Graduate | Data Analytics | Web Development</h3>
+
+  <p>
+    📍 Tamil Nadu, India
+    &nbsp;|&nbsp;
+    📧 <a href="mailto:thilagavathikavitha965@gmail.com">Email</a>
+    &nbsp;|&nbsp;
+    🔗 <a href="https://www.linkedin.com/in/thilagavathi-g/">LinkedIn</a>
+    &nbsp;|&nbsp;
+    🌐 <a href="https://thilagavathi-g.github.io/portfolio/">Portfolio</a>
+  </p>
 
   <p>
     <img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge" alt="Data Analytics" />
@@ -96,12 +105,18 @@ A machine-learning project focused on predicting travel time and classifying tra
   </a>
 </p>
 
-### 2. Enhanced Audio Steganography for Secure Data Transmission
+### 2. Funnel Drop-off Analysis
 
-A project exploring audio steganography techniques to hide information within audio signals for secure data transmission.
+A data analytics project that analyses user movement through each stage of a funnel to find where users drop off and which stages need improvement.
 
-- **Focus:** Audio-based data hiding and secure information transmission.
-- **Repository:** To be added after the project is uploaded to GitHub.
+- **Technologies:** SQL · Python · Exploratory Data Analysis (EDA)
+- **Focus:** Funnel stage analysis, drop-off identification, and data-driven insights.
+
+<p>
+  <a href="https://github.com/thilagavathi-g/funnel-dropoff-analysis">
+    <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Funnel Drop-off Analysis repository" />
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 
@@ -122,14 +137,6 @@ A project exploring audio steganography techniques to hide information within au
 **B.Sc. Computer Science**  
 Bon Secours Arts and Science College for Women  
 Periyar University · 2026
-
-## 📜 Certifications
-
-- *Certification details will be added.*
-
-## 🏆 Achievements
-
-- *Achievements and milestones will be added.*
 
 ## 🐍 Contribution Snake
 
