@@ -100,17 +100,7 @@ Periyar University · 2026
 
 </div>
 
----
-
-<div align="center">
-
-  ### 💡 Developer Quote
-
-  *"Every project is a new opportunity to learn, create, and grow."*
-
   <br />
-
-  <img src="https://profile-counter.glitch.me/thilagavathi-g/count.svg" alt="Profile visitor counter" />
 
   <p><sub>Thanks for visiting my profile! Let's learn, build, and grow together.</sub></p>
 
