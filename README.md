@@ -77,11 +77,7 @@ A machine-learning project focused on predicting travel time and classifying tra
 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilagavathi-g&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
 
-  <br />
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thilagavathi-g&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
+ </div>
 
 ## 🎓 Education
 
